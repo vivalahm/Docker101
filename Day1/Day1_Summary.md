@@ -30,7 +30,7 @@ https://docs.docker.com/engine/reference/run/
 
 도커 레퍼런스를 많이 읽어봐라함
 
-[Cli명령](https://www.notion.so/Cli-a04aba0791794a20b453aadb47e50b2d)
+[Cli명령](https://github.com/vivalahm/Docker101/blob/main/Day1/day1_docker_cli.md)
 
 ![1](https://user-images.githubusercontent.com/48741014/230269784-c1a2ca74-c094-4da6-93a9-a636261ceaa9.png)
 
